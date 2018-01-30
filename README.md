@@ -33,4 +33,4 @@ Execute scr.sh in a terminal
 
 ## Output
 
-A file called data.txt with 5 columns and in each row the output obtained for each c_V. In the first column, there is the value of c_V, in the second and the third one, the value of the threshold and the cost of the mean-field equilibrium and in the forth and the fifth one, the value of the threshold and the cost of the social optimum.
+A file called data.txt with 5 columns and in each row the output obtained for each c_V. In the first column, there is the value of c_V, in the second and the third one, the value of the threshold and the cost of the mean-field equilibrium and in the forth and the fifth one, the value of the threshold and the cost of the social optimum. From this data, one can create figures comparing the thresholds and the costs of both policies with the desired software.
