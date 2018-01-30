@@ -4,7 +4,7 @@ This repository contains all the codes to reproduce
 the numerical experiments of the paper A Mean Field Game 
 Analysis for SIR Models with Vaccinations.
 
-## Experiment 1: Dynamic of the population under social optimum and mean-field equilibrium
+## Experiment 1: Dynamics of the population under social optimum and mean-field equilibrium
 
 In this experiment, we fix the parameters and we observe evolution of the dynamics of the system for the social optimum and the mean-field equilibrium. 
 
