@@ -4,33 +4,22 @@ This repository contains all the codes to reproduce
 the numerical experiments of the paper A Mean Field Game 
 Analysis for SIR Models with Vaccinations.
 
-## Experiment 1: Dynamics of the population under social optimum and mean-field equilibrium
+- To create Figure 2: execute in Matlab plot_region_trajec_ms04_mi04.m
 
-In this experiment, we fix the parameters and we observe evolution of the dynamics of the system for the social optimum and the mean-field equilibrium. 
+- To create Figure 3: execute the code of the notebook SIR-thr-comparison.ipynb
 
-### Required Software
+- To create Figure 4: execute the code in Matlab cost_Nfinite_mfe.m
+Note: to create the plotted data, execute the code of the notebook SIR-MFG-vs-Nplayergame.ipynb
 
-* Matlab 2014 or higher
-* Octave 3.8.1 or higher
+- To create Figure 5: execute in Matlab switchingcurve_Nfinite_mfeq.m
+Note: the required values to create the figure are available in the data folder.  
+To create the plotted data, execute the code of the notebook SIR-MFG-vs-Nplayergame.ipynb
 
-### Running the examples
+- To create Figure 6: execute in Matlab cost_Nfinite_mfopt.m
 
-Execute region_plot.m file
+- To create Figure 7: execute in Matlab switchingcurve_Nfinite_mfopt.m
 
-### Output 
-
-A figure with three areas that determine when the mean-field equilibrium and the social optimum vaccinate with maximum rate and with minimum rate and with a dashed line (resp. solid line) the evolution of the mean-field equilibrium (resp. social optimum).
-
-## Experiment 2: Comparison of the thresholds of the social optimum and of the mean-field equilibrium when c_V varies
-
-### Required Software
-
-* Python 2.7.6
-
-### Running the examples
-
-Execute scr.sh in a terminal
-
-### Output
-
-A file called data.txt with 5 columns and in each row the output obtained for each c_V. In the first column, there is the value of c_V, in the second and the third one, the value of the threshold and the cost of the mean-field equilibrium and in the forth and the fifth one, the value of the threshold and the cost of the social optimum. From this data, one can create figures comparing the thresholds and the costs of both policies with the desired software.
+- To create Figure 8-9: execute the code of the notebook PoA_plotPython.ipynb
+Note: the required values to create the figure are available in the data folder. To create 
+the plotted data, execute the code of the notebooks Efficiency_Napprox.ipynb and 
+Efficiency_Nfinite.ipynb as well as in Matlab global_optimum_Nfinite.m
