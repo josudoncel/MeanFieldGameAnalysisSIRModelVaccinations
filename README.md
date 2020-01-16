@@ -16,3 +16,5 @@ code of the notebook compute_policy_t0.ipynb and to create new data, use the sam
 notebook
 
 - The code of the file computation_mfg.py is used in most of the notebooks.
+
+- Some npy files in the data folder must be uncompressed. 
