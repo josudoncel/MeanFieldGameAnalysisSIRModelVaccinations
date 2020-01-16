@@ -1,6 +1,6 @@
 # Readme file with instructions to reproduce the numerical experiments of the papers about Mean Field Games for the SIR model of Josu Doncel, Nicolas Gast and Bruno Gaujal
 
-## Numerical experiments of the Netgcoop 2020 paper
+## Numerical experiments of [1]
 
 To create Figure 2: execute the code of the notebook Figure2_doplot.ipynb
 
@@ -18,3 +18,8 @@ notebook
 - The code of the file computation_mfg.py is used in most of the notebooks.
 
 - Some npy files in the data folder must be uncompressed. 
+
+## References
+
+[1] Josu Doncel and Nicolas Gast and Bruno Gaujal, "Virus Propagation in a Large Population: Mean
+Field Equilibrium versus Social Optimum". 10th International Conference on NETwork Games, COntrol and OPtimization (NETGCOOP). Cargèse, Corsica, France. March 2020.
