@@ -11,7 +11,8 @@ To create Figure 3: execute the code of the notebook Figure3_doplot.ipynb
 
 - Some of the notebooks load the data of all the policies (mean-field equilibrium, 
 N-players equilibrium, mean-field optimum and global optimum with N finite), 
-which is contained in the folder data. To generate this data, execute the
-code of the notebook compute_policy_t0.ipynb
+which is contained in the folder data. To generate this data , execute the
+code of the notebook compute_policy_t0.ipynb and to create new data, use the same
+notebook
 
 - The code of the file computation_mfg.py is used in most of the notebooks.
