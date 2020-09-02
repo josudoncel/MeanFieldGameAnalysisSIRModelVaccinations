@@ -6,6 +6,15 @@ To create Figure 2: execute the code of the notebook Figure2_doplot.ipynb
 
 To create Figure 3: execute the code of the notebook Figure3_doplot.ipynb
 
+## Numerical experiments of [2]
+
+To create Figure 2: execute the code of the notebook Figure2_doplot.ipynb
+
+To create Figure 3: execute the code of the notebook Figure3_doplot.ipynb
+
+To create Figure 5: execute the code of the notebook Figure2_doplot.ipynb
+
+To create Figure 3: execute the code of the notebook Figure3_doplot.ipynb
 
 ## Notes:
 
@@ -22,4 +31,6 @@ notebook
 ## References
 
 [1] Josu Doncel and Nicolas Gast and Bruno Gaujal, "Virus Propagation in a Large Population: Mean
-Field Equilibrium versus Social Optimum". 10th International Conference on NETwork Games, COntrol and OPtimization (NETGCOOP). Cargèse, Corsica, France. March 2020.
+Field Equilibrium versus Social Optimum". 10th International Conference on NETwork Games, COntrol and OPtimization (NETGCOOP). Cargèse, Corsica, France. Sept 2021.
+
+[2] Josu Doncel and Nicolas Gast and Bruno Gaujal, "A Mean Field Game Analysis of SIR Dynamics with Vaccination". Submitted to Probability in the Engineering and Informational Sciences.
