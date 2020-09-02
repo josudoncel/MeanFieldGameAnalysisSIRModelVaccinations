@@ -12,9 +12,15 @@ To create Figure 2: execute the code of the notebook Figure2_doplot.ipynb
 
 To create Figure 3: execute the code of the notebook Figure3_doplot.ipynb
 
-To create Figure 5: execute the code of the notebook Figure2_doplot.ipynb
+To create Figure 4: execute the code of the notebook Figure4_doplot.ipynb
 
-To create Figure 3: execute the code of the notebook Figure3_doplot.ipynb
+To create Figure 5: execute the code of the notebook Figure5_doplot.ipynb
+
+To create Figure 6: execute the code of the notebook Figure6_doplot.ipynb
+
+To create Figure 7: execute the code of the notebook Figure7_doplot.ipynb
+
+To create Figure 8 and Figure 9: execute the code of the notebook Figure8_and_Figure9_doplot.ipynb
 
 ## Notes:
 
